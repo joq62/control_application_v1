@@ -1,0 +1,9 @@
+{release,
+	{"control","1.0.0"},
+	{erts,"11.0.3"},
+	[{common,"1.0.0"},
+	 {iaas,"1.0.0"},
+	 {kernel,"7.0"},	
+	 {stdlib,"3.13"},
+	 {sasl,"4.0"}
+	 ]}.
